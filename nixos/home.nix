@@ -9,6 +9,7 @@
     packages = with pkgs; [
       httpie
       htop
+      go
     ];
     stateVersion = "22.05";
   };
